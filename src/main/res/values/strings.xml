@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMICalculation</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="bmi_scale">BMI scale</string>
+    <string name="age">Age</string>
+    <string name="enter_age">Enter age</string>
+    <string name="height">Height</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="weight">Weight</string>
+    <string name="enter_weight">Enter weight</string>
+    <string name="calculate">Calculate</string>
+    <string name="age_in_kg">Age(In kg)</string>
+    <string name="weight_in_kg">Weight(In kg)</string>
+    <string name="bmi_body_mass_index_n_nbody_mass_index_bmi_is_a_person_s_weight_in_kilograms_or_pounds_divided_by_the_square_of_height_in_meters_or_feet_a_high_bmi_can_indicate_high_body_fatness_bmi_screens_for_weight_categories_that_may_lead_to_health_problems_but_it_does_not_diagnose_the_body_fatness_or_health_of_an_individual_n_nif_you_want_to_know_more_details_about_bmi_then_click_on_the_below_link_n">BMI(Body Mass Index) :\n\nBody Mass Index (BMI) is a person’s weight in kilograms (or pounds) divided by the square of height in meters (or feet). A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.\n\nIf you want to know more details about BMI then click on the below link-\n</string>
+    <string name="shorturl_at_fhpr2">shorturl.at/FHPR2</string>
+    <string name="shorturl_at_fhpr_2">shorturl.at/FHPR2</string>
+    <string name="https_www_cdc_gov_healthyweight_assessing_bmi_index_html_text_body_20mass_20index_20_bmi_20is_or_20health_20of_20an_20individual">https://www.cdc.gov/healthyweight/assessing/bmi/index.html#:~:text=Body%20Mass%20Index%20(BMI)%20is,or%20health%20of%20an%20individual.</string>
+</resources>
